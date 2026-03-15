@@ -25,5 +25,5 @@ I hold a comprehensive suite of Microsoft Certifications, ensuring end-to-end ex
 
 ### 📫 Let's Connect
 - **Location:** Germany
-- ** LinkedIn :** https://www.linkedin.com/in/karthick-thangadurai/
+- **LinkedIn** https://www.linkedin.com/in/karthick-thangadurai/
 - I actively share insights on ETL load patterns, RAG vs. Agentic AI, and Cloud architecture. Let's discuss Enterprise AI!"
